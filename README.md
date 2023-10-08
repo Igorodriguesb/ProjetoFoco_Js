@@ -9,4 +9,5 @@
 - O cronômetro que marca o tempo de cada estágio da técnica. Faltando 6 segundos para acabar o tempo de cada estágio, uma música de aviso surge para avisar ao usuário do fim desta etapa;
 - O botão que inicia o crônometro ou pausar, neste botão foram colocados sons que caracterizam o inícil da contagem e outro para a pausa;
 
+![ezgif com-video-to-gif](https://github.com/Igorodriguesb/ProjetoFoco_Js/assets/86806146/bd9a0163-3a0f-4d7a-a671-46df6296c961)
 
